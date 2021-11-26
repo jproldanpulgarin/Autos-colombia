@@ -1,0 +1,31 @@
+*{
+    font-family: 'Irish Grover', cursive;
+}
+body{
+    
+    background-image: url("../estilos/fondoo.jpg");
+   
+    zoom: 0%;
+    background-size: cover;
+    background-attachment: fixed;
+    padding: 50px;
+    
+  
+}
+
+h1 , h2{
+    color: white;
+ 
+}
+.img img{
+    width: 100px;
+    float: left;
+
+}
+input[type='text'],input[type='password'] {
+    text-align: right;
+}
+.col-lg-3{
+    text-align: right;
+    padding: 15px;
+}
